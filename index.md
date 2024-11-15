@@ -30,4 +30,4 @@ We use:
 
 ## Contact
 For questions about this privacy policy, contact:
-[Your Email Address]
+BarkPath@outlook.com
